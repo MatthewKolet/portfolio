@@ -17,7 +17,7 @@ This project was created using Visual Studio Code to edit my html, css, and yml 
 4. In Microsoft Azure, link your GitHub repository to the Static Web App. This should create a new .yml file that is customized to your GitHub account.
 5. (Optional) If you have your own domain, add your domain name to the custom domain sections of your Static Web App and add the approriate records onto NameCheap or whichever domain hosting site you're using.
 
-**Website Link-** matthewkolet.me
+**Website Link-** https://matthewkolet.me
 
 ### Note
 This project with the help from a free HTML template online.
