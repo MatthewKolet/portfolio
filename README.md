@@ -23,6 +23,9 @@ This project was created using Visual Studio Code to edit my html, css, and yml 
 This project with the help from a free HTML template online.
 
 Template Name: DevFolio
+
 Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+
 Author: BootstrapMade.com
+
 License: https://bootstrapmade.com/license/
