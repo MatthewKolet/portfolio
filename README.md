@@ -20,7 +20,7 @@ This project was created using Visual Studio Code to edit my html, css, and yml 
 **Website Link-** https://matthewkolet.me
 
 ### Note
-This project with the help from a free HTML template online.
+This project was created with the help from a free HTML template online.
 
 Template Name: DevFolio
 
